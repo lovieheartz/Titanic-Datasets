@@ -1,17 +1,17 @@
-# 🚀 Task 1: Data Cleaning & Preprocessing
+# Task 1: Data Cleaning & Preprocessing
 
-## 📌 Objective
+## Objective
 Clean and prepare raw data for machine learning by handling missing values, encoding categorical features, scaling numerical data, and detecting/removing outliers.
 
 ---
 
-## 📁 Dataset Used
+##  Dataset Used
 **Titanic Dataset**  
 [Kaggle Link](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - Python
 - Pandas
 - NumPy
@@ -21,7 +21,7 @@ Clean and prepare raw data for machine learning by handling missing values, enco
 
 ---
 
-## 🔍 Steps Performed
+##  Steps Performed
 
 1. **Loaded and explored the dataset**
    - Viewed structure, data types, and missing values.
@@ -46,7 +46,7 @@ Clean and prepare raw data for machine learning by handling missing values, enco
 
 ---
 
-## 📂 Files in This Repo
+##  Files in This Repo
 
 - `Titanic_Data.ipynb`: Notebook with complete preprocessing steps.
 - `Titanic_cleaned.csv`: Final cleaned dataset.
@@ -55,7 +55,7 @@ Clean and prepare raw data for machine learning by handling missing values, enco
 
 ---
 
-## ✅ How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
